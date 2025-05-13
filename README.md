@@ -56,4 +56,6 @@ Linguagens & Tecnologias: `React`, `TypeScript`, `JavaScript`, `HTML`, `CSS`
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorStos&layout=compact&hide_border=true&title_color=00bae9&text_color=00bae9&bg_color=0d1117" />
 </div>
 
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bae9&height=120&section=footer"/>
