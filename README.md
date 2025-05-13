@@ -31,10 +31,10 @@ useEffect(() => {
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="72px" width="auto" alt="Warpnet" src="https://modalgr.com.br/wp-content/themes/modal/images/logo-patenteado.png"/>](https://modalgr.io/)
+[<img align="left" height="72px" width="auto" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoEIAUtwJCEYlUBioC8H-56Q8Rv2pVwQec7g&s"/>](https://mosten.com/)
 **Desenvolvedor Front-End** \
-[**Estagiário**](https://modalgr.io/) • Processo de Formação \
-Linguagens & Tecnologias: `React`, `TypeScript`, `JavaScript`, `HTML`, `CSS`
+[**Desenvolvedor Front-End Júnior**](https://mosten.com/) • Processo de Formação \
+Linguagens & Tecnologias: `Angular`, `React`, `TypeScript`, `JavaScript`, `HTML`, `CSS`
 <!--Projetos em destaque: [NOME](link), [NOME](link)-->
 <br />
 
