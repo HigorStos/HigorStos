@@ -24,7 +24,7 @@ useEffect(() => {
 ## Linguagens e Frameworks:
 
 <div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=angular,react,next,dotnet,ts,js,tailwind,saas,styledcomponents,nextjs-light,html,css">
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,dotnet,ts,js,tailwind,sass,styledcomponents,html,css">
 </div>
 
 ## Experiência de trabalho
