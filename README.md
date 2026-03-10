@@ -2,7 +2,7 @@
 
 ### Olá! Me chamo Higor! 👋
 
-Estudante de Ciência da Computação e Desenvolvedor Front-End, sou apaixonado por conectar ideias criativas com tecnologia.
+Desenvolvedor Full Stack Angular, React, Next.js e .NET, com mais de 3 anos de experiência e atuação na construção de aplicações web modernas, escaláveis e orientadas à performance.
 <br/><br/>
 "Obsession is gonna beat talent every time."
 
@@ -24,7 +24,7 @@ useEffect(() => {
 ## Linguagens e Frameworks:
 
 <div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,styledcomponents,sass,tailwind,html,css">
+  <img src="https://skillicons.dev/icons?i=angular,react,next,dotnet,ts,js,tailwind,saas,styledcomponents,nextjs-light,html,css">
 </div>
 
 ## Experiência de trabalho
@@ -34,7 +34,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="72px" width="auto" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoEIAUtwJCEYlUBioC8H-56Q8Rv2pVwQec7g&s"/>](https://mosten.com/)
 **Desenvolvedor Front-End** \
 [**Mosten**](https://mosten.com/) \
-Linguagens & Tecnologias: `Angular`, `React`, `TypeScript`
+Linguagens & Tecnologias: `Angular`, `React`, `Next.js`, `.NET`, `TypeScript`
 <!--Projetos em destaque: [NOME](link), [NOME](link)-->
 <br />
 
