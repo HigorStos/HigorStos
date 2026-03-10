@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=180&section=header&text=Higor%20Santos&fontColor=fff&fontSize=40"/>
 
-### Olá! Me chamo Higor! 👋
+### Olá, me chamo Higor! 👋
 
 Desenvolvedor Full Stack Angular, React, Next.js e .NET, com mais de 3 anos de experiência e atuação na construção de aplicações web modernas, escaláveis e orientadas à performance.
 <br/><br/>
