@@ -32,7 +32,7 @@ useEffect(() => {
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="72px" width="auto" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoEIAUtwJCEYlUBioC8H-56Q8Rv2pVwQec7g&s"/>](https://mosten.com/)
-**Desenvolvedor Front-End** \
+**Engenheiro de Software** \
 [**Mosten**](https://mosten.com/) \
 Linguagens & Tecnologias: `Angular`, `React`, `Next.js`, `.NET`, `TypeScript`
 <!--Projetos em destaque: [NOME](link), [NOME](link)-->
